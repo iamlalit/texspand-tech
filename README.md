@@ -3,6 +3,9 @@ MEAN.JS is a full-stack JavaScript open-source solution, which provides a solid 
 
 ## Steps to follow:
 npm install -g bower
+
 npm install -g grunt-cli
+
 npm install -g yo
+
 npm install -g generator-meanjs
